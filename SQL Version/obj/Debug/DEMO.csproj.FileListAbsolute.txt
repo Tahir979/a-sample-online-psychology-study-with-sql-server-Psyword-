@@ -1,0 +1,1011 @@
+C:\Users\wasd0\Desktop\DEMO\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\DEMO\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\DEMO\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\DEMO\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\DEMO\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\DEMO\obj\Debug\DEMO.pdb
+F:\DEMO_05.08.2022 - 00.52\DEMO\bin\Debug\DEMO.exe.config
+F:\DEMO_05.08.2022 - 00.52\DEMO\bin\Debug\DEMO.exe
+F:\DEMO_05.08.2022 - 00.52\DEMO\bin\Debug\DEMO.pdb
+F:\DEMO_05.08.2022 - 00.52\DEMO\bin\Debug\MetroFramework.Design.dll
+F:\DEMO_05.08.2022 - 00.52\DEMO\bin\Debug\MetroFramework.dll
+F:\DEMO_05.08.2022 - 00.52\DEMO\bin\Debug\MetroFramework.Fonts.dll
+F:\DEMO_05.08.2022 - 00.52\DEMO\obj\Debug\DEMO.csprojAssemblyReference.cache
+F:\DEMO_05.08.2022 - 00.52\DEMO\obj\Debug\DEMO.Form1.resources
+F:\DEMO_05.08.2022 - 00.52\DEMO\obj\Debug\DEMO.oyun.resources
+F:\DEMO_05.08.2022 - 00.52\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+F:\DEMO_05.08.2022 - 00.52\DEMO\obj\Debug\DEMO.splashscreen.resources
+F:\DEMO_05.08.2022 - 00.52\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+F:\DEMO_05.08.2022 - 00.52\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+F:\DEMO_05.08.2022 - 00.52\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+F:\DEMO_05.08.2022 - 00.52\DEMO\obj\Debug\DEMO.csproj.CopyComplete
+F:\DEMO_05.08.2022 - 00.52\DEMO\obj\Debug\DEMO.exe
+F:\DEMO_05.08.2022 - 00.52\DEMO\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_05.08.2022 - 00.52\DEMO\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_05.08.2022 - 00.52\DEMO\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_05.08.2022 - 00.52\DEMO\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_05.08.2022 - 00.52\DEMO\bin\Debug\MetroFramework.Design.dll
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_05.08.2022 - 00.52\DEMO\bin\Debug\MetroFramework.dll
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_05.08.2022 - 00.52\DEMO\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_05.08.2022 - 00.52\DEMO\obj\Debug\DEMO.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_05.08.2022 - 00.52\DEMO\obj\Debug\DEMO.Form1.resources
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_05.08.2022 - 00.52\DEMO\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_05.08.2022 - 00.52\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_05.08.2022 - 00.52\DEMO\obj\Debug\DEMO.splashscreen.resources
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_05.08.2022 - 00.52\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_05.08.2022 - 00.52\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_05.08.2022 - 00.52\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_05.08.2022 - 00.52\DEMO\obj\Debug\DEMO.csproj.CopyComplete
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_05.08.2022 - 00.52\DEMO\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_05.08.2022 - 00.52\DEMO\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_05.08.2022 - 00.52\DEMO\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.08.2022 - 03.42\DEMO\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.08.2022 - 03.42\DEMO\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.08.2022 - 03.42\DEMO\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.08.2022 - 03.42\DEMO\bin\Debug\MetroFramework.Design.dll
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.08.2022 - 03.42\DEMO\bin\Debug\MetroFramework.dll
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.08.2022 - 03.42\DEMO\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.08.2022 - 03.42\DEMO\obj\Debug\DEMO.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.08.2022 - 03.42\DEMO\obj\Debug\DEMO.Form1.resources
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.08.2022 - 03.42\DEMO\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.08.2022 - 03.42\DEMO\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.08.2022 - 03.42\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.08.2022 - 03.42\DEMO\obj\Debug\DEMO.splashscreen.resources
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.08.2022 - 03.42\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.08.2022 - 03.42\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.08.2022 - 03.42\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.08.2022 - 03.42\DEMO\obj\Debug\DEMO.csproj.CopyComplete
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.08.2022 - 03.42\DEMO\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.08.2022 - 03.42\DEMO\obj\Debug\DEMO.pdb
+F:\[GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\bin\Debug\DEMO.exe.config
+F:\[GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\bin\Debug\DEMO.exe
+F:\[GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\bin\Debug\DEMO.pdb
+F:\[GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\bin\Debug\MetroFramework.Design.dll
+F:\[GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\bin\Debug\MetroFramework.dll
+F:\[GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\bin\Debug\MetroFramework.Fonts.dll
+F:\[GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\obj\Debug\DEMO.csprojAssemblyReference.cache
+F:\[GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\obj\Debug\DEMO.Form1.resources
+F:\[GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\obj\Debug\DEMO.loadingscreen.resources
+F:\[GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\obj\Debug\DEMO.oyun.resources
+F:\[GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+F:\[GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\obj\Debug\DEMO.splashscreen.resources
+F:\[GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+F:\[GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+F:\[GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+F:\[GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\obj\Debug\DEMO.csproj.CopyComplete
+F:\[GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\obj\Debug\DEMO.exe
+F:\[GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\[DÜN GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\[DÜN GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\[DÜN GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\[DÜN GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\bin\Debug\MetroFramework.Design.dll
+C:\Users\wasd0\Desktop\[DÜN GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\bin\Debug\MetroFramework.dll
+C:\Users\wasd0\Desktop\[DÜN GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\wasd0\Desktop\[DÜN GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\obj\Debug\DEMO.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\[DÜN GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\obj\Debug\DEMO.Form1.resources
+C:\Users\wasd0\Desktop\[DÜN GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\[DÜN GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\[DÜN GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\[DÜN GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\obj\Debug\DEMO.splashscreen.resources
+C:\Users\wasd0\Desktop\[DÜN GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\[DÜN GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\[DÜN GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\[DÜN GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\obj\Debug\DEMO.csproj.CopyComplete
+C:\Users\wasd0\Desktop\[DÜN GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\[DÜN GÜNCEL]DEMO_09.08.2022 - 21.46\DEMO\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\bin\Debug\MetroFramework.Design.dll
+C:\Users\wasd0\Desktop\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\bin\Debug\MetroFramework.dll
+C:\Users\wasd0\Desktop\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\wasd0\Desktop\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\obj\Debug\DEMO.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\obj\Debug\DEMO.Form1.resources
+C:\Users\wasd0\Desktop\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\obj\Debug\DEMO.splashscreen.resources
+C:\Users\wasd0\Desktop\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\obj\Debug\DEMO.csproj.CopyComplete
+C:\Users\wasd0\Desktop\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\obj\Debug\DEMO.pdb
+F:\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\bin\Debug\DEMO.exe.config
+F:\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\bin\Debug\DEMO.exe
+F:\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\bin\Debug\DEMO.pdb
+F:\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\bin\Debug\MetroFramework.Design.dll
+F:\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\bin\Debug\MetroFramework.dll
+F:\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\bin\Debug\MetroFramework.Fonts.dll
+F:\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\obj\Debug\DEMO.csprojAssemblyReference.cache
+F:\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\obj\Debug\DEMO.Form1.resources
+F:\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\obj\Debug\DEMO.loadingscreen.resources
+F:\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\obj\Debug\DEMO.oyun.resources
+F:\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+F:\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\obj\Debug\DEMO.splashscreen.resources
+F:\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+F:\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+F:\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+F:\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\obj\Debug\DEMO.csproj.CopyComplete
+F:\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\obj\Debug\DEMO.exe
+F:\New folder\[EN SAĞLAM YEDEK][DÜN GÜNCEL]DEMO_10.08.2022 - 21.22 - SON SATIRA GREEN YOK VE YEŞİLLER ÜSTÜNDEN GEİLEBİLECEK\DEMO\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\DEMO_14.08.2022 - 22.19\DEMO\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\DEMO_14.08.2022 - 22.19\DEMO\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\DEMO_14.08.2022 - 22.19\DEMO\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\DEMO_14.08.2022 - 22.19\DEMO\obj\Debug\DEMO.Form1.resources
+C:\Users\wasd0\Desktop\DEMO_14.08.2022 - 22.19\DEMO\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\DEMO_14.08.2022 - 22.19\DEMO\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\DEMO_14.08.2022 - 22.19\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\DEMO_14.08.2022 - 22.19\DEMO\obj\Debug\DEMO.splashscreen.resources
+C:\Users\wasd0\Desktop\DEMO_14.08.2022 - 22.19\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\DEMO_14.08.2022 - 22.19\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\DEMO_14.08.2022 - 22.19\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\DEMO_14.08.2022 - 22.19\DEMO\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\DEMO_14.08.2022 - 22.19\DEMO\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\DEMO_14.08.2022 - 22.19\DEMO\bin\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_14.08.2022 - 22.19\DEMO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_14.08.2022 - 22.19\DEMO\obj\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_14.08.2022 - 22.19\DEMO\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_14.08.2022 - 22.19\DEMO\obj\Debug\DEMO.csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\DEMO_14.08.2022 - 22.19\DEMO\obj\Debug\DEMO.oyunsonu.resources
+C:\Users\wasd0\Desktop\DEMO_14.08.2022 - 22.19\DEMO\obj\Debug\DEMO.secenekler.resources
+C:\Users\wasd0\Desktop\DEMO_14.08.2022 - 22.19\DEMO\obj\Debug\DEMO.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\DEMO_14.08.2022 - 22.19\DEMO\bin\Debug\DEMO.exe.manifest
+C:\Users\wasd0\Desktop\DEMO_14.08.2022 - 22.19\DEMO\bin\Debug\DEMO.application
+C:\Users\wasd0\Desktop\DEMO_14.08.2022 - 22.19\DEMO\obj\Debug\DEMO.exe.manifest
+C:\Users\wasd0\Desktop\DEMO_14.08.2022 - 22.19\DEMO\obj\Debug\DEMO.application
+C:\Users\wasd0\Desktop\DEMO\DEMO\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\DEMO\DEMO\bin\Debug\DEMO.exe.manifest
+C:\Users\wasd0\Desktop\DEMO\DEMO\bin\Debug\DEMO.application
+C:\Users\wasd0\Desktop\DEMO\DEMO\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\DEMO\DEMO\obj\Debug\DEMO.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\DEMO\DEMO\obj\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO\DEMO\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO\DEMO\obj\Debug\DEMO.csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\DEMO\DEMO\obj\Debug\DEMO.Form1.resources
+C:\Users\wasd0\Desktop\DEMO\DEMO\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\DEMO\DEMO\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\DEMO\DEMO\obj\Debug\DEMO.oyunsonu.resources
+C:\Users\wasd0\Desktop\DEMO\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\DEMO\DEMO\obj\Debug\DEMO.secenekler.resources
+C:\Users\wasd0\Desktop\DEMO\DEMO\obj\Debug\DEMO.splashscreen.resources
+C:\Users\wasd0\Desktop\DEMO\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\DEMO\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\DEMO\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\DEMO\DEMO\obj\Debug\DEMO.exe.manifest
+C:\Users\wasd0\Desktop\DEMO\DEMO\obj\Debug\DEMO.application
+C:\Users\wasd0\Desktop\DEMO\DEMO\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\DEMO\DEMO\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\DEMO\DEMO\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\DEMO\DEMO\bin\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO\DEMO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_26.08.2022\DEMO\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\DEMO_26.08.2022\DEMO\bin\Debug\DEMO.exe.manifest
+C:\Users\wasd0\Desktop\DEMO_26.08.2022\DEMO\bin\Debug\DEMO.application
+C:\Users\wasd0\Desktop\DEMO_26.08.2022\DEMO\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\DEMO_26.08.2022\DEMO\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\DEMO_26.08.2022\DEMO\bin\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_26.08.2022\DEMO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_26.08.2022\DEMO\obj\Debug\DEMO.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\DEMO_26.08.2022\DEMO\obj\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_26.08.2022\DEMO\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_26.08.2022\DEMO\obj\Debug\DEMO.csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\DEMO_26.08.2022\DEMO\obj\Debug\DEMO.deneme.resources
+C:\Users\wasd0\Desktop\DEMO_26.08.2022\DEMO\obj\Debug\DEMO.Form1.resources
+C:\Users\wasd0\Desktop\DEMO_26.08.2022\DEMO\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\DEMO_26.08.2022\DEMO\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\DEMO_26.08.2022\DEMO\obj\Debug\DEMO.oyunsonu.resources
+C:\Users\wasd0\Desktop\DEMO_26.08.2022\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\DEMO_26.08.2022\DEMO\obj\Debug\DEMO.secenekler.resources
+C:\Users\wasd0\Desktop\DEMO_26.08.2022\DEMO\obj\Debug\DEMO.splashscreen.resources
+C:\Users\wasd0\Desktop\DEMO_26.08.2022\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\DEMO_26.08.2022\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\DEMO_26.08.2022\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\DEMO_26.08.2022\DEMO\obj\Debug\DEMO.exe.manifest
+C:\Users\wasd0\Desktop\DEMO_26.08.2022\DEMO\obj\Debug\DEMO.application
+C:\Users\wasd0\Desktop\DEMO_26.08.2022\DEMO\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\DEMO_26.08.2022\DEMO\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\DEMO_26.08.2022_20.39\DEMO\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\DEMO_26.08.2022_20.39\DEMO\bin\Debug\DEMO.exe.manifest
+C:\Users\wasd0\Desktop\DEMO_26.08.2022_20.39\DEMO\bin\Debug\DEMO.application
+C:\Users\wasd0\Desktop\DEMO_26.08.2022_20.39\DEMO\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\DEMO_26.08.2022_20.39\DEMO\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\DEMO_26.08.2022_20.39\DEMO\bin\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_26.08.2022_20.39\DEMO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_26.08.2022_20.39\DEMO\obj\Debug\DEMO.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\DEMO_26.08.2022_20.39\DEMO\obj\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_26.08.2022_20.39\DEMO\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_26.08.2022_20.39\DEMO\obj\Debug\DEMO.csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\DEMO_26.08.2022_20.39\DEMO\obj\Debug\DEMO.deneme.resources
+C:\Users\wasd0\Desktop\DEMO_26.08.2022_20.39\DEMO\obj\Debug\DEMO.Form1.resources
+C:\Users\wasd0\Desktop\DEMO_26.08.2022_20.39\DEMO\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\DEMO_26.08.2022_20.39\DEMO\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\DEMO_26.08.2022_20.39\DEMO\obj\Debug\DEMO.oyunsonu.resources
+C:\Users\wasd0\Desktop\DEMO_26.08.2022_20.39\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\DEMO_26.08.2022_20.39\DEMO\obj\Debug\DEMO.secenekler.resources
+C:\Users\wasd0\Desktop\DEMO_26.08.2022_20.39\DEMO\obj\Debug\DEMO.splashscreen.resources
+C:\Users\wasd0\Desktop\DEMO_26.08.2022_20.39\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\DEMO_26.08.2022_20.39\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\DEMO_26.08.2022_20.39\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\DEMO_26.08.2022_20.39\DEMO\obj\Debug\DEMO.exe.manifest
+C:\Users\wasd0\Desktop\DEMO_26.08.2022_20.39\DEMO\obj\Debug\DEMO.application
+C:\Users\wasd0\Desktop\DEMO_26.08.2022_20.39\DEMO\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\DEMO_26.08.2022_20.39\DEMO\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_15.39\DEMO\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_15.39\DEMO\bin\Debug\DEMO.exe.manifest
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_15.39\DEMO\bin\Debug\DEMO.application
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_15.39\DEMO\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_15.39\DEMO\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_15.39\DEMO\bin\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_15.39\DEMO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_15.39\DEMO\obj\Debug\DEMO.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_15.39\DEMO\obj\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_15.39\DEMO\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_15.39\DEMO\obj\Debug\DEMO.csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_15.39\DEMO\obj\Debug\DEMO.Form1.resources
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_15.39\DEMO\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_15.39\DEMO\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_15.39\DEMO\obj\Debug\DEMO.oyunsonu.resources
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_15.39\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_15.39\DEMO\obj\Debug\DEMO.secenekler.resources
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_15.39\DEMO\obj\Debug\DEMO.splashscreen.resources
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_15.39\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_15.39\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_15.39\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_15.39\DEMO\obj\Debug\DEMO.exe.manifest
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_15.39\DEMO\obj\Debug\DEMO.application
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_15.39\DEMO\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_15.39\DEMO\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_19.07\DEMO\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_19.07\DEMO\bin\Debug\DEMO.exe.manifest
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_19.07\DEMO\bin\Debug\DEMO.application
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_19.07\DEMO\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_19.07\DEMO\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_19.07\DEMO\bin\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_19.07\DEMO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_19.07\DEMO\obj\Debug\DEMO.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_19.07\DEMO\obj\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_19.07\DEMO\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_19.07\DEMO\obj\Debug\DEMO.csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_19.07\DEMO\obj\Debug\DEMO.Form1.resources
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_19.07\DEMO\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_19.07\DEMO\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_19.07\DEMO\obj\Debug\DEMO.oyunsonu.resources
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_19.07\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_19.07\DEMO\obj\Debug\DEMO.secenekler.resources
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_19.07\DEMO\obj\Debug\DEMO.splashscreen.resources
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_19.07\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_19.07\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_19.07\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_19.07\DEMO\obj\Debug\DEMO.exe.manifest
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_19.07\DEMO\obj\Debug\DEMO.application
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_19.07\DEMO\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\DEMO_27.08.2022_19.07\DEMO\obj\Debug\DEMO.pdb
+F:\DEMO\Nispeten Güncel Sürümleri\DEMO_27.08.2022_22.08\DEMO\bin\Debug\DEMO.exe.config
+F:\DEMO\Nispeten Güncel Sürümleri\DEMO_27.08.2022_22.08\DEMO\bin\Debug\DEMO.exe.manifest
+F:\DEMO\Nispeten Güncel Sürümleri\DEMO_27.08.2022_22.08\DEMO\bin\Debug\DEMO.application
+F:\DEMO\Nispeten Güncel Sürümleri\DEMO_27.08.2022_22.08\DEMO\bin\Debug\DEMO.exe
+F:\DEMO\Nispeten Güncel Sürümleri\DEMO_27.08.2022_22.08\DEMO\bin\Debug\DEMO.pdb
+F:\DEMO\Nispeten Güncel Sürümleri\DEMO_27.08.2022_22.08\DEMO\bin\Debug\Interop.WMPLib.dll
+F:\DEMO\Nispeten Güncel Sürümleri\DEMO_27.08.2022_22.08\DEMO\bin\Debug\AxInterop.WMPLib.dll
+F:\DEMO\Nispeten Güncel Sürümleri\DEMO_27.08.2022_22.08\DEMO\obj\Debug\DEMO.csprojAssemblyReference.cache
+F:\DEMO\Nispeten Güncel Sürümleri\DEMO_27.08.2022_22.08\DEMO\obj\Debug\Interop.WMPLib.dll
+F:\DEMO\Nispeten Güncel Sürümleri\DEMO_27.08.2022_22.08\DEMO\obj\Debug\AxInterop.WMPLib.dll
+F:\DEMO\Nispeten Güncel Sürümleri\DEMO_27.08.2022_22.08\DEMO\obj\Debug\DEMO.csproj.ResolveComReference.cache
+F:\DEMO\Nispeten Güncel Sürümleri\DEMO_27.08.2022_22.08\DEMO\obj\Debug\DEMO.Form1.resources
+F:\DEMO\Nispeten Güncel Sürümleri\DEMO_27.08.2022_22.08\DEMO\obj\Debug\DEMO.loadingscreen.resources
+F:\DEMO\Nispeten Güncel Sürümleri\DEMO_27.08.2022_22.08\DEMO\obj\Debug\DEMO.oyun.resources
+F:\DEMO\Nispeten Güncel Sürümleri\DEMO_27.08.2022_22.08\DEMO\obj\Debug\DEMO.oyunsonu.resources
+F:\DEMO\Nispeten Güncel Sürümleri\DEMO_27.08.2022_22.08\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+F:\DEMO\Nispeten Güncel Sürümleri\DEMO_27.08.2022_22.08\DEMO\obj\Debug\DEMO.secenekler.resources
+F:\DEMO\Nispeten Güncel Sürümleri\DEMO_27.08.2022_22.08\DEMO\obj\Debug\DEMO.splashscreen.resources
+F:\DEMO\Nispeten Güncel Sürümleri\DEMO_27.08.2022_22.08\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+F:\DEMO\Nispeten Güncel Sürümleri\DEMO_27.08.2022_22.08\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+F:\DEMO\Nispeten Güncel Sürümleri\DEMO_27.08.2022_22.08\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+F:\DEMO\Nispeten Güncel Sürümleri\DEMO_27.08.2022_22.08\DEMO\obj\Debug\DEMO.exe.manifest
+F:\DEMO\Nispeten Güncel Sürümleri\DEMO_27.08.2022_22.08\DEMO\obj\Debug\DEMO.application
+F:\DEMO\Nispeten Güncel Sürümleri\DEMO_27.08.2022_22.08\DEMO\obj\Debug\DEMO.exe
+F:\DEMO\Nispeten Güncel Sürümleri\DEMO_27.08.2022_22.08\DEMO\obj\Debug\DEMO.pdb
+F:\EN SAĞLAM OYUN İÇİ KASMAYAN_DEMO_27.08.2022_22.08\DEMO\obj\Debug\DEMO.csprojAssemblyReference.cache
+F:\EN SAĞLAM OYUN İÇİ KASMAYAN_DEMO_27.08.2022_22.08\DEMO\obj\Debug\Interop.WMPLib.dll
+F:\EN SAĞLAM OYUN İÇİ KASMAYAN_DEMO_27.08.2022_22.08\DEMO\obj\Debug\AxInterop.WMPLib.dll
+F:\EN SAĞLAM OYUN İÇİ KASMAYAN_DEMO_27.08.2022_22.08\DEMO\obj\Debug\DEMO.csproj.ResolveComReference.cache
+F:\EN SAĞLAM OYUN İÇİ KASMAYAN_DEMO_27.08.2022_22.08\DEMO\obj\Debug\DEMO.loadingscreen.resources
+F:\EN SAĞLAM OYUN İÇİ KASMAYAN_DEMO_27.08.2022_22.08\DEMO\obj\Debug\DEMO.oyun.resources
+F:\EN SAĞLAM OYUN İÇİ KASMAYAN_DEMO_27.08.2022_22.08\DEMO\obj\Debug\DEMO.oyunsonu.resources
+F:\EN SAĞLAM OYUN İÇİ KASMAYAN_DEMO_27.08.2022_22.08\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+F:\EN SAĞLAM OYUN İÇİ KASMAYAN_DEMO_27.08.2022_22.08\DEMO\obj\Debug\DEMO.splashscreen.resources
+F:\EN SAĞLAM OYUN İÇİ KASMAYAN_DEMO_27.08.2022_22.08\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+F:\EN SAĞLAM OYUN İÇİ KASMAYAN_DEMO_27.08.2022_22.08\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+F:\EN SAĞLAM OYUN İÇİ KASMAYAN_DEMO_27.08.2022_22.08\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+F:\EN SAĞLAM OYUN İÇİ KASMAYAN_DEMO_27.08.2022_22.08\DEMO\obj\Debug\DEMO.exe
+F:\EN SAĞLAM OYUN İÇİ KASMAYAN_DEMO_27.08.2022_22.08\DEMO\obj\Debug\DEMO.pdb
+F:\EN SAĞLAM OYUN İÇİ KASMAYAN_DEMO_27.08.2022_22.08\DEMO\bin\Debug\DEMO.exe.config
+F:\EN SAĞLAM OYUN İÇİ KASMAYAN_DEMO_27.08.2022_22.08\DEMO\bin\Debug\DEMO.exe
+F:\EN SAĞLAM OYUN İÇİ KASMAYAN_DEMO_27.08.2022_22.08\DEMO\bin\Debug\DEMO.pdb
+F:\EN SAĞLAM OYUN İÇİ KASMAYAN_DEMO_27.08.2022_22.08\DEMO\bin\Debug\Interop.WMPLib.dll
+F:\EN SAĞLAM OYUN İÇİ KASMAYAN_DEMO_27.08.2022_22.08\DEMO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_18.53\DEMO\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_18.53\DEMO\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_18.53\DEMO\obj\Debug\DEMO.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_18.53\DEMO\obj\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_18.53\DEMO\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_18.53\DEMO\obj\Debug\DEMO.csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_18.53\DEMO\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_18.53\DEMO\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_18.53\DEMO\obj\Debug\DEMO.oyunsonu.resources
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_18.53\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_18.53\DEMO\obj\Debug\DEMO.splashscreen.resources
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_18.53\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_18.53\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_18.53\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_18.53\DEMO\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_18.53\DEMO\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_18.53\DEMO\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_18.53\DEMO\bin\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_18.53\DEMO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_19.47\DEMO\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_19.47\DEMO\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_19.47\DEMO\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_19.47\DEMO\bin\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_19.47\DEMO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_19.47\DEMO\obj\Debug\DEMO.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_19.47\DEMO\obj\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_19.47\DEMO\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_19.47\DEMO\obj\Debug\DEMO.csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_19.47\DEMO\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_19.47\DEMO\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_19.47\DEMO\obj\Debug\DEMO.oyunsonu.resources
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_19.47\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_19.47\DEMO\obj\Debug\DEMO.splashscreen.resources
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_19.47\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_19.47\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_19.47\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_19.47\DEMO\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_19.47\DEMO\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_23.52\DEMO\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_23.52\DEMO\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_23.52\DEMO\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_23.52\DEMO\bin\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_23.52\DEMO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_23.52\DEMO\obj\Debug\DEMO.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_23.52\DEMO\obj\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_23.52\DEMO\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_23.52\DEMO\obj\Debug\DEMO.csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_23.52\DEMO\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_23.52\DEMO\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_23.52\DEMO\obj\Debug\DEMO.oyunsonu.resources
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_23.52\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_23.52\DEMO\obj\Debug\DEMO.splashscreen.resources
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_23.52\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_23.52\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_23.52\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_23.52\DEMO\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\DEMO_30.08.2022_23.52\DEMO\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_00.54\DEMO\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_00.54\DEMO\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_00.54\DEMO\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_00.54\DEMO\bin\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_00.54\DEMO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_00.54\DEMO\obj\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_00.54\DEMO\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_00.54\DEMO\obj\Debug\DEMO.csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_00.54\DEMO\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_00.54\DEMO\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_00.54\DEMO\obj\Debug\DEMO.oyunsonu.resources
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_00.54\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_00.54\DEMO\obj\Debug\DEMO.splashscreen.resources
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_00.54\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_00.54\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_00.54\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_00.54\DEMO\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_00.54\DEMO\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_13.43\DEMO\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_13.43\DEMO\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_13.43\DEMO\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_13.43\DEMO\bin\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_13.43\DEMO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_13.43\DEMO\obj\Debug\DEMO.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_13.43\DEMO\obj\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_13.43\DEMO\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_13.43\DEMO\obj\Debug\DEMO.csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_13.43\DEMO\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_13.43\DEMO\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_13.43\DEMO\obj\Debug\DEMO.oyunsonu.resources
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_13.43\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_13.43\DEMO\obj\Debug\DEMO.splashscreen.resources
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_13.43\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_13.43\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_13.43\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_13.43\DEMO\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\DEMO_31.08.2022_13.43\DEMO\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\DEMO_1.09.2022_01.52\DEMO\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\DEMO_1.09.2022_01.52\DEMO\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\DEMO_1.09.2022_01.52\DEMO\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\DEMO_1.09.2022_01.52\DEMO\bin\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_1.09.2022_01.52\DEMO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_1.09.2022_01.52\DEMO\obj\Debug\DEMO.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\DEMO_1.09.2022_01.52\DEMO\obj\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_1.09.2022_01.52\DEMO\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO_1.09.2022_01.52\DEMO\obj\Debug\DEMO.csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\DEMO_1.09.2022_01.52\DEMO\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\DEMO_1.09.2022_01.52\DEMO\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\DEMO_1.09.2022_01.52\DEMO\obj\Debug\DEMO.oyunsonu.resources
+C:\Users\wasd0\Desktop\DEMO_1.09.2022_01.52\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\DEMO_1.09.2022_01.52\DEMO\obj\Debug\DEMO.splashscreen.resources
+C:\Users\wasd0\Desktop\DEMO_1.09.2022_01.52\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\DEMO_1.09.2022_01.52\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\DEMO_1.09.2022_01.52\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\DEMO_1.09.2022_01.52\DEMO\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\DEMO_1.09.2022_01.52\DEMO\obj\Debug\DEMO.pdb
+F:\DEMO_03.09.2022_13.00\DEMO\bin\Debug\DEMO.exe.config
+F:\DEMO_03.09.2022_13.00\DEMO\bin\Debug\DEMO.exe
+F:\DEMO_03.09.2022_13.00\DEMO\bin\Debug\DEMO.pdb
+F:\DEMO_03.09.2022_13.00\DEMO\bin\Debug\Interop.WMPLib.dll
+F:\DEMO_03.09.2022_13.00\DEMO\bin\Debug\AxInterop.WMPLib.dll
+F:\DEMO_03.09.2022_13.00\DEMO\obj\Debug\DEMO.csprojAssemblyReference.cache
+F:\DEMO_03.09.2022_13.00\DEMO\obj\Debug\Interop.WMPLib.dll
+F:\DEMO_03.09.2022_13.00\DEMO\obj\Debug\AxInterop.WMPLib.dll
+F:\DEMO_03.09.2022_13.00\DEMO\obj\Debug\DEMO.csproj.ResolveComReference.cache
+F:\DEMO_03.09.2022_13.00\DEMO\obj\Debug\DEMO.loadingscreen.resources
+F:\DEMO_03.09.2022_13.00\DEMO\obj\Debug\DEMO.oyun.resources
+F:\DEMO_03.09.2022_13.00\DEMO\obj\Debug\DEMO.oyunsonu.resources
+F:\DEMO_03.09.2022_13.00\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+F:\DEMO_03.09.2022_13.00\DEMO\obj\Debug\DEMO.splashscreen.resources
+F:\DEMO_03.09.2022_13.00\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+F:\DEMO_03.09.2022_13.00\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+F:\DEMO_03.09.2022_13.00\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+F:\DEMO_03.09.2022_13.00\DEMO\obj\Debug\DEMO.exe
+F:\DEMO_03.09.2022_13.00\DEMO\obj\Debug\DEMO.pdb
+F:\DEMO_04.09.2022_05.25\DEMO\bin\Debug\DEMO.exe.config
+F:\DEMO_04.09.2022_05.25\DEMO\bin\Debug\DEMO.exe
+F:\DEMO_04.09.2022_05.25\DEMO\bin\Debug\DEMO.pdb
+F:\DEMO_04.09.2022_05.25\DEMO\bin\Debug\Interop.WMPLib.dll
+F:\DEMO_04.09.2022_05.25\DEMO\bin\Debug\AxInterop.WMPLib.dll
+F:\DEMO_04.09.2022_05.25\DEMO\obj\Debug\Interop.WMPLib.dll
+F:\DEMO_04.09.2022_05.25\DEMO\obj\Debug\AxInterop.WMPLib.dll
+F:\DEMO_04.09.2022_05.25\DEMO\obj\Debug\DEMO.csproj.ResolveComReference.cache
+F:\DEMO_04.09.2022_05.25\DEMO\obj\Debug\DEMO.loadingscreen.resources
+F:\DEMO_04.09.2022_05.25\DEMO\obj\Debug\DEMO.oyun.resources
+F:\DEMO_04.09.2022_05.25\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+F:\DEMO_04.09.2022_05.25\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+F:\DEMO_04.09.2022_05.25\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+F:\DEMO_04.09.2022_05.25\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+F:\DEMO_04.09.2022_05.25\DEMO\obj\Debug\DEMO.exe
+F:\DEMO_04.09.2022_05.25\DEMO\obj\Debug\DEMO.pdb
+F:\DEMO_04.09.2022_05.25\DEMO\obj\Debug\DEMO.csproj.AssemblyReference.cache
+F:\DEMO_06.09.2022_22.35\DEMO\bin\Debug\DEMO.exe.config
+F:\DEMO_06.09.2022_22.35\DEMO\bin\Debug\DEMO.exe
+F:\DEMO_06.09.2022_22.35\DEMO\bin\Debug\DEMO.pdb
+F:\DEMO_06.09.2022_22.35\DEMO\bin\Debug\Interop.WMPLib.dll
+F:\DEMO_06.09.2022_22.35\DEMO\bin\Debug\AxInterop.WMPLib.dll
+F:\DEMO_06.09.2022_22.35\DEMO\obj\Debug\DEMO.csproj.AssemblyReference.cache
+F:\DEMO_06.09.2022_22.35\DEMO\obj\Debug\Interop.WMPLib.dll
+F:\DEMO_06.09.2022_22.35\DEMO\obj\Debug\AxInterop.WMPLib.dll
+F:\DEMO_06.09.2022_22.35\DEMO\obj\Debug\DEMO.csproj.ResolveComReference.cache
+F:\DEMO_06.09.2022_22.35\DEMO\obj\Debug\DEMO.loadingscreen.resources
+F:\DEMO_06.09.2022_22.35\DEMO\obj\Debug\DEMO.oyun.resources
+F:\DEMO_06.09.2022_22.35\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+F:\DEMO_06.09.2022_22.35\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+F:\DEMO_06.09.2022_22.35\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+F:\DEMO_06.09.2022_22.35\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+F:\DEMO_06.09.2022_22.35\DEMO\obj\Debug\DEMO.exe
+F:\DEMO_06.09.2022_22.35\DEMO\obj\Debug\DEMO.pdb
+F:\DEMO_07.09.2022_11.07\DEMO\bin\Debug\DEMO.exe.config
+F:\DEMO_07.09.2022_11.07\DEMO\bin\Debug\DEMO.exe
+F:\DEMO_07.09.2022_11.07\DEMO\bin\Debug\DEMO.pdb
+F:\DEMO_07.09.2022_11.07\DEMO\bin\Debug\Interop.WMPLib.dll
+F:\DEMO_07.09.2022_11.07\DEMO\bin\Debug\AxInterop.WMPLib.dll
+F:\DEMO_07.09.2022_11.07\DEMO\obj\Debug\DEMO.csproj.AssemblyReference.cache
+F:\DEMO_07.09.2022_11.07\DEMO\obj\Debug\Interop.WMPLib.dll
+F:\DEMO_07.09.2022_11.07\DEMO\obj\Debug\AxInterop.WMPLib.dll
+F:\DEMO_07.09.2022_11.07\DEMO\obj\Debug\DEMO.csproj.ResolveComReference.cache
+F:\DEMO_07.09.2022_11.07\DEMO\obj\Debug\DEMO.loadingscreen.resources
+F:\DEMO_07.09.2022_11.07\DEMO\obj\Debug\DEMO.oyun.resources
+F:\DEMO_07.09.2022_11.07\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+F:\DEMO_07.09.2022_11.07\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+F:\DEMO_07.09.2022_11.07\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+F:\DEMO_07.09.2022_11.07\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+F:\DEMO_07.09.2022_11.07\DEMO\obj\Debug\DEMO.exe
+F:\DEMO_07.09.2022_11.07\DEMO\obj\Debug\DEMO.pdb
+F:\DEMO_07.09.2022_17.19\DEMO\bin\Debug\DEMO.exe.config
+F:\DEMO_07.09.2022_17.19\DEMO\bin\Debug\DEMO.exe
+F:\DEMO_07.09.2022_17.19\DEMO\bin\Debug\DEMO.pdb
+F:\DEMO_07.09.2022_17.19\DEMO\bin\Debug\Interop.WMPLib.dll
+F:\DEMO_07.09.2022_17.19\DEMO\bin\Debug\AxInterop.WMPLib.dll
+F:\DEMO_07.09.2022_17.19\DEMO\obj\Debug\DEMO.csproj.AssemblyReference.cache
+F:\DEMO_07.09.2022_17.19\DEMO\obj\Debug\Interop.WMPLib.dll
+F:\DEMO_07.09.2022_17.19\DEMO\obj\Debug\AxInterop.WMPLib.dll
+F:\DEMO_07.09.2022_17.19\DEMO\obj\Debug\DEMO.csproj.ResolveComReference.cache
+F:\DEMO_07.09.2022_17.19\DEMO\obj\Debug\DEMO.loadingscreen.resources
+F:\DEMO_07.09.2022_17.19\DEMO\obj\Debug\DEMO.oyun.resources
+F:\DEMO_07.09.2022_17.19\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+F:\DEMO_07.09.2022_17.19\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+F:\DEMO_07.09.2022_17.19\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+F:\DEMO_07.09.2022_17.19\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+F:\DEMO_07.09.2022_17.19\DEMO\obj\Debug\DEMO.exe
+F:\DEMO_07.09.2022_17.19\DEMO\obj\Debug\DEMO.pdb
+F:\DEMO_08.09.2022_11.12\DEMO\bin\Debug\DEMO.exe.config
+F:\DEMO_08.09.2022_11.12\DEMO\bin\Debug\DEMO.exe
+F:\DEMO_08.09.2022_11.12\DEMO\bin\Debug\DEMO.pdb
+F:\DEMO_08.09.2022_11.12\DEMO\bin\Debug\Interop.WMPLib.dll
+F:\DEMO_08.09.2022_11.12\DEMO\bin\Debug\AxInterop.WMPLib.dll
+F:\DEMO_08.09.2022_11.12\DEMO\obj\Debug\DEMO.csproj.AssemblyReference.cache
+F:\DEMO_08.09.2022_11.12\DEMO\obj\Debug\Interop.WMPLib.dll
+F:\DEMO_08.09.2022_11.12\DEMO\obj\Debug\AxInterop.WMPLib.dll
+F:\DEMO_08.09.2022_11.12\DEMO\obj\Debug\DEMO.csproj.ResolveComReference.cache
+F:\DEMO_08.09.2022_11.12\DEMO\obj\Debug\DEMO.loadingscreen.resources
+F:\DEMO_08.09.2022_11.12\DEMO\obj\Debug\DEMO.oyun.resources
+F:\DEMO_08.09.2022_11.12\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+F:\DEMO_08.09.2022_11.12\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+F:\DEMO_08.09.2022_11.12\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+F:\DEMO_08.09.2022_11.12\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+F:\DEMO_08.09.2022_11.12\DEMO\obj\Debug\DEMO.exe
+F:\DEMO_08.09.2022_11.12\DEMO\obj\Debug\DEMO.pdb
+F:\DEMO_08.09.2022_14.41\DEMO\bin\Debug\DEMO.exe.config
+F:\DEMO_08.09.2022_14.41\DEMO\bin\Debug\DEMO.exe
+F:\DEMO_08.09.2022_14.41\DEMO\bin\Debug\DEMO.pdb
+F:\DEMO_08.09.2022_14.41\DEMO\bin\Debug\Interop.WMPLib.dll
+F:\DEMO_08.09.2022_14.41\DEMO\bin\Debug\AxInterop.WMPLib.dll
+F:\DEMO_08.09.2022_14.41\DEMO\obj\Debug\DEMO.csproj.AssemblyReference.cache
+F:\DEMO_08.09.2022_14.41\DEMO\obj\Debug\Interop.WMPLib.dll
+F:\DEMO_08.09.2022_14.41\DEMO\obj\Debug\AxInterop.WMPLib.dll
+F:\DEMO_08.09.2022_14.41\DEMO\obj\Debug\DEMO.csproj.ResolveComReference.cache
+F:\DEMO_08.09.2022_14.41\DEMO\obj\Debug\DEMO.loadingscreen.resources
+F:\DEMO_08.09.2022_14.41\DEMO\obj\Debug\DEMO.oyun.resources
+F:\DEMO_08.09.2022_14.41\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+F:\DEMO_08.09.2022_14.41\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+F:\DEMO_08.09.2022_14.41\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+F:\DEMO_08.09.2022_14.41\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+F:\DEMO_08.09.2022_14.41\DEMO\obj\Debug\DEMO.exe
+F:\DEMO_08.09.2022_14.41\DEMO\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.09.2022_15.56\DEMO\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.09.2022_15.56\DEMO\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.09.2022_15.56\DEMO\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.09.2022_15.56\DEMO\bin\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.09.2022_15.56\DEMO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.09.2022_15.56\DEMO\obj\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.09.2022_15.56\DEMO\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.09.2022_15.56\DEMO\obj\Debug\DEMO.csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.09.2022_15.56\DEMO\obj\Debug\DEMO.acilis.resources
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.09.2022_15.56\DEMO\obj\Debug\DEMO.kullanici.resources
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.09.2022_15.56\DEMO\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.09.2022_15.56\DEMO\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.09.2022_15.56\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.09.2022_15.56\DEMO\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.09.2022_15.56\DEMO\obj\Debug\DEMO.UserControl_aa.resources
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.09.2022_15.56\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.09.2022_15.56\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.09.2022_15.56\DEMO\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.09.2022_15.56\DEMO\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\[GÜNCEL]DEMO_08.09.2022_15.56\DEMO\obj\Debug\DEMO.csproj.AssemblyReference.cache
+C:\Users\wasd0\Desktop\DEMO\bin\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO\obj\Debug\DEMO.csproj.AssemblyReference.cache
+C:\Users\wasd0\Desktop\DEMO\obj\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\DEMO\obj\Debug\DEMO.csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\DEMO\obj\Debug\DEMO.acilis.resources
+C:\Users\wasd0\Desktop\DEMO\obj\Debug\DEMO.kullanici.resources
+C:\Users\wasd0\Desktop\DEMO\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\DEMO\obj\Debug\DEMO.UserControl_aa.resources
+C:\Users\wasd0\Desktop\Oyun\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\Oyun\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\Oyun\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\Oyun\bin\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\Oyun\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\Oyun\obj\Debug\DEMO.csproj.AssemblyReference.cache
+C:\Users\wasd0\Desktop\Oyun\obj\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\Oyun\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\Oyun\obj\Debug\DEMO.csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\Oyun\obj\Debug\DEMO.kullanici.resources
+C:\Users\wasd0\Desktop\Oyun\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\Oyun\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\Oyun\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Oyun\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\Oyun\obj\Debug\DEMO.UserControl_aa.resources
+C:\Users\wasd0\Desktop\Oyun\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Oyun\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\Oyun\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\Oyun\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\Oyun_EskiKelimeDüzeni\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\Oyun_EskiKelimeDüzeni\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\Oyun_EskiKelimeDüzeni\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\Oyun_EskiKelimeDüzeni\bin\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\Oyun_EskiKelimeDüzeni\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\Oyun_EskiKelimeDüzeni\obj\Debug\DEMO.csproj.AssemblyReference.cache
+C:\Users\wasd0\Desktop\Oyun_EskiKelimeDüzeni\obj\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\Oyun_EskiKelimeDüzeni\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\Oyun_EskiKelimeDüzeni\obj\Debug\DEMO.csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\Oyun_EskiKelimeDüzeni\obj\Debug\DEMO.kullanici.resources
+C:\Users\wasd0\Desktop\Oyun_EskiKelimeDüzeni\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\Oyun_EskiKelimeDüzeni\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\Oyun_EskiKelimeDüzeni\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Oyun_EskiKelimeDüzeni\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\Oyun_EskiKelimeDüzeni\obj\Debug\DEMO.UserControl_aa.resources
+C:\Users\wasd0\Desktop\Oyun_EskiKelimeDüzeni\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Oyun_EskiKelimeDüzeni\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\Oyun_EskiKelimeDüzeni\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\Oyun_EskiKelimeDüzeni\obj\Debug\DEMO.pdb
+F:\bundayım\Oyun_Guncel\bin\Debug\DEMO.exe.config
+F:\bundayım\Oyun_Guncel\bin\Debug\DEMO.exe
+F:\bundayım\Oyun_Guncel\bin\Debug\DEMO.pdb
+F:\bundayım\Oyun_Guncel\bin\Debug\Interop.WMPLib.dll
+F:\bundayım\Oyun_Guncel\bin\Debug\AxInterop.WMPLib.dll
+F:\bundayım\Oyun_Guncel\obj\Debug\DEMO.csproj.AssemblyReference.cache
+F:\bundayım\Oyun_Guncel\obj\Debug\Interop.WMPLib.dll
+F:\bundayım\Oyun_Guncel\obj\Debug\AxInterop.WMPLib.dll
+F:\bundayım\Oyun_Guncel\obj\Debug\DEMO.csproj.ResolveComReference.cache
+F:\bundayım\Oyun_Guncel\obj\Debug\DEMO.kullanici.resources
+F:\bundayım\Oyun_Guncel\obj\Debug\DEMO.loadingscreen.resources
+F:\bundayım\Oyun_Guncel\obj\Debug\DEMO.oyun.resources
+F:\bundayım\Oyun_Guncel\obj\Debug\DEMO.Properties.Resources.resources
+F:\bundayım\Oyun_Guncel\obj\Debug\DEMO.textbox_tahir.resources
+F:\bundayım\Oyun_Guncel\obj\Debug\DEMO.UserControl_aa.resources
+F:\bundayım\Oyun_Guncel\obj\Debug\DEMO.csproj.GenerateResource.cache
+F:\bundayım\Oyun_Guncel\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+F:\bundayım\Oyun_Guncel\obj\Debug\DEMO.exe
+F:\bundayım\Oyun_Guncel\obj\Debug\DEMO.pdb
+F:\bundayım\bundayım\Oyun_Guncel\bin\Debug\DEMO.exe.config
+F:\bundayım\bundayım\Oyun_Guncel\bin\Debug\DEMO.exe
+F:\bundayım\bundayım\Oyun_Guncel\bin\Debug\DEMO.pdb
+F:\bundayım\bundayım\Oyun_Guncel\bin\Debug\Interop.WMPLib.dll
+F:\bundayım\bundayım\Oyun_Guncel\bin\Debug\AxInterop.WMPLib.dll
+F:\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.csproj.AssemblyReference.cache
+F:\bundayım\bundayım\Oyun_Guncel\obj\Debug\Interop.WMPLib.dll
+F:\bundayım\bundayım\Oyun_Guncel\obj\Debug\AxInterop.WMPLib.dll
+F:\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.csproj.ResolveComReference.cache
+F:\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.kullanici.resources
+F:\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.loadingscreen.resources
+F:\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.oyun.resources
+F:\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.Properties.Resources.resources
+F:\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.textbox_tahir.resources
+F:\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.UserControl_aa.resources
+F:\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.csproj.GenerateResource.cache
+F:\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+F:\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.exe
+F:\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.pdb
+F:\bundayım\bundayım\bundayım\Oyun_Guncel\bin\Debug\DEMO.exe.config
+F:\bundayım\bundayım\bundayım\Oyun_Guncel\bin\Debug\DEMO.exe
+F:\bundayım\bundayım\bundayım\Oyun_Guncel\bin\Debug\DEMO.pdb
+F:\bundayım\bundayım\bundayım\Oyun_Guncel\bin\Debug\Interop.WMPLib.dll
+F:\bundayım\bundayım\bundayım\Oyun_Guncel\bin\Debug\AxInterop.WMPLib.dll
+F:\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.csproj.AssemblyReference.cache
+F:\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\Interop.WMPLib.dll
+F:\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\AxInterop.WMPLib.dll
+F:\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.csproj.ResolveComReference.cache
+F:\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.kullanici.resources
+F:\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.loadingscreen.resources
+F:\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.oyun.resources
+F:\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.Properties.Resources.resources
+F:\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.textbox_tahir.resources
+F:\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.UserControl_aa.resources
+F:\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.csproj.GenerateResource.cache
+F:\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+F:\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.exe
+F:\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.pdb
+F:\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\bin\Debug\DEMO.exe.config
+F:\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\bin\Debug\DEMO.exe
+F:\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\bin\Debug\DEMO.pdb
+F:\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\bin\Debug\Interop.WMPLib.dll
+F:\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\bin\Debug\AxInterop.WMPLib.dll
+F:\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.csproj.AssemblyReference.cache
+F:\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\Interop.WMPLib.dll
+F:\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\AxInterop.WMPLib.dll
+F:\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.csproj.ResolveComReference.cache
+F:\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.kullanici.resources
+F:\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.loadingscreen.resources
+F:\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.oyun.resources
+F:\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.Properties.Resources.resources
+F:\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.textbox_tahir.resources
+F:\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.UserControl_aa.resources
+F:\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.csproj.GenerateResource.cache
+F:\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+F:\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.exe
+F:\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.pdb
+F:\bundayım\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\bin\Debug\DEMO.exe.config
+F:\bundayım\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\bin\Debug\DEMO.exe
+F:\bundayım\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\bin\Debug\DEMO.pdb
+F:\bundayım\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\bin\Debug\Interop.WMPLib.dll
+F:\bundayım\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\bin\Debug\AxInterop.WMPLib.dll
+F:\bundayım\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.csproj.AssemblyReference.cache
+F:\bundayım\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\Interop.WMPLib.dll
+F:\bundayım\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\AxInterop.WMPLib.dll
+F:\bundayım\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.csproj.ResolveComReference.cache
+F:\bundayım\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.kullanici.resources
+F:\bundayım\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.loadingscreen.resources
+F:\bundayım\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.oyun.resources
+F:\bundayım\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.Properties.Resources.resources
+F:\bundayım\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.textbox_tahir.resources
+F:\bundayım\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.UserControl_aa.resources
+F:\bundayım\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.csproj.GenerateResource.cache
+F:\bundayım\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+F:\bundayım\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.exe
+F:\bundayım\bundayım\bundayım\bundayım\bundayım\Oyun_Guncel\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\Oyun_GUNCEL\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\Oyun_GUNCEL\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\Oyun_GUNCEL\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\Oyun_GUNCEL\bin\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\Oyun_GUNCEL\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\Oyun_GUNCEL\obj\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\Oyun_GUNCEL\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\Oyun_GUNCEL\obj\Debug\DEMO.csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\Oyun_GUNCEL\obj\Debug\DEMO.kullanici.resources
+C:\Users\wasd0\Desktop\Oyun_GUNCEL\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\Oyun_GUNCEL\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\Oyun_GUNCEL\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Oyun_GUNCEL\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\Oyun_GUNCEL\obj\Debug\DEMO.UserControl_aa.resources
+C:\Users\wasd0\Desktop\Oyun_GUNCEL\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Oyun_GUNCEL\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\Oyun_GUNCEL\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\Oyun_GUNCEL\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\Oyun_GUNCEL\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\Oyun_GUNCEL\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\Oyun_GUNCEL\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\Oyun_GUNCEL\bin\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\Oyun_GUNCEL\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\Oyun_GUNCEL\obj\Debug\DEMO.csproj.AssemblyReference.cache
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\Oyun_GUNCEL\obj\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\Oyun_GUNCEL\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\Oyun_GUNCEL\obj\Debug\DEMO.csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\Oyun_GUNCEL\obj\Debug\DEMO.kullanici.resources
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\Oyun_GUNCEL\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\Oyun_GUNCEL\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\Oyun_GUNCEL\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\Oyun_GUNCEL\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\Oyun_GUNCEL\obj\Debug\DEMO.UserControl_aa.resources
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\Oyun_GUNCEL\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\Oyun_GUNCEL\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\Oyun_GUNCEL\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\Oyun_GUNCEL\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\New folder\Oyun_GUNCEL\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\New folder\Oyun_GUNCEL\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\New folder\Oyun_GUNCEL\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\New folder\Oyun_GUNCEL\bin\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\New folder\Oyun_GUNCEL\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\New folder\Oyun_GUNCEL\obj\Debug\DEMO.csproj.AssemblyReference.cache
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\New folder\Oyun_GUNCEL\obj\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\New folder\Oyun_GUNCEL\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\New folder\Oyun_GUNCEL\obj\Debug\DEMO.csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\New folder\Oyun_GUNCEL\obj\Debug\DEMO.kullanici.resources
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\New folder\Oyun_GUNCEL\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\New folder\Oyun_GUNCEL\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\New folder\Oyun_GUNCEL\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\New folder\Oyun_GUNCEL\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\New folder\Oyun_GUNCEL\obj\Debug\DEMO.UserControl_aa.resources
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\New folder\Oyun_GUNCEL\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\New folder\Oyun_GUNCEL\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\New folder\Oyun_GUNCEL\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\YEDEJ_19.56\New folder\New folder\Oyun_GUNCEL\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\x\Oyun_GUNCEL\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\x\Oyun_GUNCEL\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\x\Oyun_GUNCEL\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\x\Oyun_GUNCEL\bin\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\x\Oyun_GUNCEL\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\x\Oyun_GUNCEL\obj\Debug\DEMO.csproj.AssemblyReference.cache
+C:\Users\wasd0\Desktop\x\Oyun_GUNCEL\obj\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\x\Oyun_GUNCEL\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\x\Oyun_GUNCEL\obj\Debug\DEMO.csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\x\Oyun_GUNCEL\obj\Debug\DEMO.kullanici.resources
+C:\Users\wasd0\Desktop\x\Oyun_GUNCEL\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\x\Oyun_GUNCEL\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\x\Oyun_GUNCEL\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\x\Oyun_GUNCEL\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\x\Oyun_GUNCEL\obj\Debug\DEMO.UserControl_aa.resources
+C:\Users\wasd0\Desktop\x\Oyun_GUNCEL\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\x\Oyun_GUNCEL\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\x\Oyun_GUNCEL\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\x\Oyun_GUNCEL\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\Oyun_GUNCEL_copy\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\Oyun_GUNCEL_copy\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\Oyun_GUNCEL_copy\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\Oyun_GUNCEL_copy\bin\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\Oyun_GUNCEL_copy\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\Oyun_GUNCEL_copy\obj\Debug\DEMO.csproj.AssemblyReference.cache
+C:\Users\wasd0\Desktop\Oyun_GUNCEL_copy\obj\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\Oyun_GUNCEL_copy\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\Oyun_GUNCEL_copy\obj\Debug\DEMO.csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\Oyun_GUNCEL_copy\obj\Debug\DEMO.kullanici.resources
+C:\Users\wasd0\Desktop\Oyun_GUNCEL_copy\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\Oyun_GUNCEL_copy\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\Oyun_GUNCEL_copy\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Oyun_GUNCEL_copy\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\Oyun_GUNCEL_copy\obj\Debug\DEMO.UserControl_aa.resources
+C:\Users\wasd0\Desktop\Oyun_GUNCEL_copy\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Oyun_GUNCEL_copy\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\Oyun_GUNCEL_copy\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\Oyun_GUNCEL_copy\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\Oyun_GUNCEL\obj\Debug\DEMO.ilkgun.resources
+C:\Users\wasd0\Desktop\Oyun_GUNCEL\obj\Debug\DEMO.ilkgun_gorev.resources
+C:\Users\wasd0\Desktop\Oyun_GUNCEL\obj\Debug\DEMO.sinama.resources
+C:\Users\wasd0\Desktop\yedek_30.12.2022_06.40\Oyun_GUNCEL\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\yedek_30.12.2022_06.40\Oyun_GUNCEL\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\yedek_30.12.2022_06.40\Oyun_GUNCEL\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\yedek_30.12.2022_06.40\Oyun_GUNCEL\bin\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\yedek_30.12.2022_06.40\Oyun_GUNCEL\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\yedek_30.12.2022_06.40\Oyun_GUNCEL\obj\Debug\DEMO.csproj.AssemblyReference.cache
+C:\Users\wasd0\Desktop\yedek_30.12.2022_06.40\Oyun_GUNCEL\obj\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\yedek_30.12.2022_06.40\Oyun_GUNCEL\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\yedek_30.12.2022_06.40\Oyun_GUNCEL\obj\Debug\DEMO.csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\yedek_30.12.2022_06.40\Oyun_GUNCEL\obj\Debug\DEMO.ilkgun.resources
+C:\Users\wasd0\Desktop\yedek_30.12.2022_06.40\Oyun_GUNCEL\obj\Debug\DEMO.ilkgun_gorev.resources
+C:\Users\wasd0\Desktop\yedek_30.12.2022_06.40\Oyun_GUNCEL\obj\Debug\DEMO.kullanici.resources
+C:\Users\wasd0\Desktop\yedek_30.12.2022_06.40\Oyun_GUNCEL\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\yedek_30.12.2022_06.40\Oyun_GUNCEL\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\yedek_30.12.2022_06.40\Oyun_GUNCEL\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\yedek_30.12.2022_06.40\Oyun_GUNCEL\obj\Debug\DEMO.sinama.resources
+C:\Users\wasd0\Desktop\yedek_30.12.2022_06.40\Oyun_GUNCEL\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\yedek_30.12.2022_06.40\Oyun_GUNCEL\obj\Debug\DEMO.UnderlineTextbox.resources
+C:\Users\wasd0\Desktop\yedek_30.12.2022_06.40\Oyun_GUNCEL\obj\Debug\DEMO.UserControl_aa.resources
+C:\Users\wasd0\Desktop\yedek_30.12.2022_06.40\Oyun_GUNCEL\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\yedek_30.12.2022_06.40\Oyun_GUNCEL\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\yedek_30.12.2022_06.40\Oyun_GUNCEL\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\yedek_30.12.2022_06.40\Oyun_GUNCEL\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\Oyun_GUNCEL\obj\Debug\DEMO.UnderlineTextbox.resources
+C:\Users\wasd0\Desktop\Oyun_GUNCEL\obj\Debug\DEMO.csproj.AssemblyReference.cache
+C:\Users\wasd0\Downloads\(xx)Oyun_GUNCEL (1)\Oyun_GUNCEL\obj\Debug\DEMO.csproj.AssemblyReference.cache
+C:\Users\wasd0\Downloads\(xx)Oyun_GUNCEL (1)\Oyun_GUNCEL\obj\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Downloads\(xx)Oyun_GUNCEL (1)\Oyun_GUNCEL\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Downloads\(xx)Oyun_GUNCEL (1)\Oyun_GUNCEL\obj\Debug\DEMO.csproj.ResolveComReference.cache
+C:\Users\wasd0\Downloads\(xx)Oyun_GUNCEL (1)\Oyun_GUNCEL\obj\Debug\DEMO.ilkgun.resources
+C:\Users\wasd0\Downloads\(xx)Oyun_GUNCEL (1)\Oyun_GUNCEL\obj\Debug\DEMO.ilkgun_gorev.resources
+C:\Users\wasd0\Downloads\(xx)Oyun_GUNCEL (1)\Oyun_GUNCEL\obj\Debug\DEMO.kullanici.resources
+C:\Users\wasd0\Downloads\(xx)Oyun_GUNCEL (1)\Oyun_GUNCEL\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Downloads\(xx)Oyun_GUNCEL (1)\Oyun_GUNCEL\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Downloads\(xx)Oyun_GUNCEL (1)\Oyun_GUNCEL\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Downloads\(xx)Oyun_GUNCEL (1)\Oyun_GUNCEL\obj\Debug\DEMO.sinama.resources
+C:\Users\wasd0\Downloads\(xx)Oyun_GUNCEL (1)\Oyun_GUNCEL\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Downloads\(xx)Oyun_GUNCEL (1)\Oyun_GUNCEL\obj\Debug\DEMO.UnderlineTextbox.resources
+C:\Users\wasd0\Downloads\(xx)Oyun_GUNCEL (1)\Oyun_GUNCEL\obj\Debug\DEMO.UserControl_aa.resources
+C:\Users\wasd0\Downloads\(xx)Oyun_GUNCEL (1)\Oyun_GUNCEL\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Downloads\(xx)Oyun_GUNCEL (1)\Oyun_GUNCEL\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Downloads\(xx)Oyun_GUNCEL (1)\Oyun_GUNCEL\obj\Debug\DEMO.exe
+C:\Users\wasd0\Downloads\(xx)Oyun_GUNCEL (1)\Oyun_GUNCEL\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Downloads\(xx)Oyun_GUNCEL (1)\Oyun_GUNCEL\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Downloads\(xx)Oyun_GUNCEL (1)\Oyun_GUNCEL\bin\Debug\DEMO.exe
+C:\Users\wasd0\Downloads\(xx)Oyun_GUNCEL (1)\Oyun_GUNCEL\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Downloads\(xx)Oyun_GUNCEL (1)\Oyun_GUNCEL\bin\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Downloads\(xx)Oyun_GUNCEL (1)\Oyun_GUNCEL\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\(FİNAL)Oyun_GUNCEL\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\(FİNAL)Oyun_GUNCEL\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\(FİNAL)Oyun_GUNCEL\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\(FİNAL)Oyun_GUNCEL\bin\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\(FİNAL)Oyun_GUNCEL\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.csproj.AssemblyReference.cache
+C:\Users\wasd0\Desktop\(FİNAL)Oyun_GUNCEL\obj\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\(FİNAL)Oyun_GUNCEL\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.ilkgun.resources
+C:\Users\wasd0\Desktop\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.ilkgun_gorev.resources
+C:\Users\wasd0\Desktop\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.kullanici.resources
+C:\Users\wasd0\Desktop\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.sinama.resources
+C:\Users\wasd0\Desktop\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.UnderlineTextbox.resources
+C:\Users\wasd0\Desktop\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.UserControl_aa.resources
+C:\Users\wasd0\Desktop\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Downloads\UYGULAMA\UYGULAMA\Uygulama\(FİNAL)Oyun_GUNCEL\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Downloads\UYGULAMA\UYGULAMA\Uygulama\(FİNAL)Oyun_GUNCEL\bin\Debug\DEMO.exe
+C:\Users\wasd0\Downloads\UYGULAMA\UYGULAMA\Uygulama\(FİNAL)Oyun_GUNCEL\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Downloads\UYGULAMA\UYGULAMA\Uygulama\(FİNAL)Oyun_GUNCEL\bin\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Downloads\UYGULAMA\UYGULAMA\Uygulama\(FİNAL)Oyun_GUNCEL\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Downloads\UYGULAMA\UYGULAMA\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.csproj.AssemblyReference.cache
+C:\Users\wasd0\Downloads\UYGULAMA\UYGULAMA\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Downloads\UYGULAMA\UYGULAMA\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Downloads\UYGULAMA\UYGULAMA\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.csproj.ResolveComReference.cache
+C:\Users\wasd0\Downloads\UYGULAMA\UYGULAMA\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.ilkgun.resources
+C:\Users\wasd0\Downloads\UYGULAMA\UYGULAMA\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.ilkgun_gorev.resources
+C:\Users\wasd0\Downloads\UYGULAMA\UYGULAMA\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.kullanici.resources
+C:\Users\wasd0\Downloads\UYGULAMA\UYGULAMA\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Downloads\UYGULAMA\UYGULAMA\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Downloads\UYGULAMA\UYGULAMA\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Downloads\UYGULAMA\UYGULAMA\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.sinama.resources
+C:\Users\wasd0\Downloads\UYGULAMA\UYGULAMA\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Downloads\UYGULAMA\UYGULAMA\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.UnderlineTextbox.resources
+C:\Users\wasd0\Downloads\UYGULAMA\UYGULAMA\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.UserControl_aa.resources
+C:\Users\wasd0\Downloads\UYGULAMA\UYGULAMA\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Downloads\UYGULAMA\UYGULAMA\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Downloads\UYGULAMA\UYGULAMA\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.exe
+C:\Users\wasd0\Downloads\UYGULAMA\UYGULAMA\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\Uygulama\(FİNAL)Oyun_GUNCEL\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\Uygulama\(FİNAL)Oyun_GUNCEL\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\Uygulama\(FİNAL)Oyun_GUNCEL\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\Uygulama\(FİNAL)Oyun_GUNCEL\bin\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\Uygulama\(FİNAL)Oyun_GUNCEL\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.csproj.AssemblyReference.cache
+C:\Users\wasd0\Desktop\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.ilkgun.resources
+C:\Users\wasd0\Desktop\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.ilkgun_gorev.resources
+C:\Users\wasd0\Desktop\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.kullanici.resources
+C:\Users\wasd0\Desktop\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.sinama.resources
+C:\Users\wasd0\Desktop\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.UnderlineTextbox.resources
+C:\Users\wasd0\Desktop\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.UserControl_aa.resources
+C:\Users\wasd0\Desktop\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\Uygulama\(FİNAL)Oyun_GUNCEL\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\Uygulama\Uygulama_guncel\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\Uygulama\Uygulama_guncel\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\Uygulama\Uygulama_guncel\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\Uygulama\Uygulama_guncel\bin\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\Uygulama\Uygulama_guncel\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\Uygulama\Uygulama_guncel\obj\Debug\DEMO.csproj.AssemblyReference.cache
+C:\Users\wasd0\Desktop\Uygulama\Uygulama_guncel\obj\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\Uygulama\Uygulama_guncel\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\Uygulama\Uygulama_guncel\obj\Debug\DEMO.csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\Uygulama\Uygulama_guncel\obj\Debug\DEMO.ilkgun.resources
+C:\Users\wasd0\Desktop\Uygulama\Uygulama_guncel\obj\Debug\DEMO.ilkgun_gorev.resources
+C:\Users\wasd0\Desktop\Uygulama\Uygulama_guncel\obj\Debug\DEMO.kullanici.resources
+C:\Users\wasd0\Desktop\Uygulama\Uygulama_guncel\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\Uygulama\Uygulama_guncel\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\Uygulama\Uygulama_guncel\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Uygulama\Uygulama_guncel\obj\Debug\DEMO.sinama.resources
+C:\Users\wasd0\Desktop\Uygulama\Uygulama_guncel\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\Uygulama\Uygulama_guncel\obj\Debug\DEMO.UnderlineTextbox.resources
+C:\Users\wasd0\Desktop\Uygulama\Uygulama_guncel\obj\Debug\DEMO.UserControl_aa.resources
+C:\Users\wasd0\Desktop\Uygulama\Uygulama_guncel\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Uygulama\Uygulama_guncel\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\Uygulama\Uygulama_guncel\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\Uygulama\Uygulama_guncel\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\Psyword\Uygulama_guncelliği kontrol edilecek\Uygulama_guncel\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\Psyword\Uygulama_guncelliği kontrol edilecek\Uygulama_guncel\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\Psyword\Uygulama_guncelliği kontrol edilecek\Uygulama_guncel\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\Psyword\Uygulama_guncelliği kontrol edilecek\Uygulama_guncel\bin\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\Psyword\Uygulama_guncelliği kontrol edilecek\Uygulama_guncel\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\Psyword\Uygulama_guncelliği kontrol edilecek\Uygulama_guncel\obj\Debug\DEMO.csproj.AssemblyReference.cache
+C:\Users\wasd0\Desktop\Psyword\Uygulama_guncelliği kontrol edilecek\Uygulama_guncel\obj\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\Psyword\Uygulama_guncelliği kontrol edilecek\Uygulama_guncel\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\Psyword\Uygulama_guncelliği kontrol edilecek\Uygulama_guncel\obj\Debug\DEMO.csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\Psyword\Uygulama_guncelliği kontrol edilecek\Uygulama_guncel\obj\Debug\DEMO.ilkgun.resources
+C:\Users\wasd0\Desktop\Psyword\Uygulama_guncelliği kontrol edilecek\Uygulama_guncel\obj\Debug\DEMO.ilkgun_gorev.resources
+C:\Users\wasd0\Desktop\Psyword\Uygulama_guncelliği kontrol edilecek\Uygulama_guncel\obj\Debug\DEMO.kullanici.resources
+C:\Users\wasd0\Desktop\Psyword\Uygulama_guncelliği kontrol edilecek\Uygulama_guncel\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\Psyword\Uygulama_guncelliği kontrol edilecek\Uygulama_guncel\obj\Debug\DEMO.oyun.resources
+C:\Users\wasd0\Desktop\Psyword\Uygulama_guncelliği kontrol edilecek\Uygulama_guncel\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Psyword\Uygulama_guncelliği kontrol edilecek\Uygulama_guncel\obj\Debug\DEMO.sinama.resources
+C:\Users\wasd0\Desktop\Psyword\Uygulama_guncelliği kontrol edilecek\Uygulama_guncel\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\Psyword\Uygulama_guncelliği kontrol edilecek\Uygulama_guncel\obj\Debug\DEMO.UnderlineTextbox.resources
+C:\Users\wasd0\Desktop\Psyword\Uygulama_guncelliği kontrol edilecek\Uygulama_guncel\obj\Debug\DEMO.UserControl_aa.resources
+C:\Users\wasd0\Desktop\Psyword\Uygulama_guncelliği kontrol edilecek\Uygulama_guncel\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Psyword\Uygulama_guncelliği kontrol edilecek\Uygulama_guncel\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\Psyword\Uygulama_guncelliği kontrol edilecek\Uygulama_guncel\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\Psyword\Uygulama_guncelliği kontrol edilecek\Uygulama_guncel\obj\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\Oyun\SQL Version\bin\Debug\DEMO.exe.config
+C:\Users\wasd0\Desktop\Oyun\SQL Version\bin\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\Oyun\SQL Version\bin\Debug\DEMO.pdb
+C:\Users\wasd0\Desktop\Oyun\SQL Version\bin\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\Oyun\SQL Version\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\Oyun\SQL Version\obj\Debug\DEMO.csproj.AssemblyReference.cache
+C:\Users\wasd0\Desktop\Oyun\SQL Version\obj\Debug\Interop.WMPLib.dll
+C:\Users\wasd0\Desktop\Oyun\SQL Version\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wasd0\Desktop\Oyun\SQL Version\obj\Debug\DEMO.csproj.ResolveComReference.cache
+C:\Users\wasd0\Desktop\Oyun\SQL Version\obj\Debug\DEMO.daylogin.resources
+C:\Users\wasd0\Desktop\Oyun\SQL Version\obj\Debug\DEMO.readcondition.resources
+C:\Users\wasd0\Desktop\Oyun\SQL Version\obj\Debug\DEMO.loginscreen.resources
+C:\Users\wasd0\Desktop\Oyun\SQL Version\obj\Debug\DEMO.loadingscreen.resources
+C:\Users\wasd0\Desktop\Oyun\SQL Version\obj\Debug\DEMO.gamecondition.resources
+C:\Users\wasd0\Desktop\Oyun\SQL Version\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Oyun\SQL Version\obj\Debug\DEMO.testingcondition.resources
+C:\Users\wasd0\Desktop\Oyun\SQL Version\obj\Debug\DEMO.textbox_tahir.resources
+C:\Users\wasd0\Desktop\Oyun\SQL Version\obj\Debug\DEMO.UnderlineTextbox.resources
+C:\Users\wasd0\Desktop\Oyun\SQL Version\obj\Debug\DEMO.UserControl_aa.resources
+C:\Users\wasd0\Desktop\Oyun\SQL Version\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Oyun\SQL Version\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\Oyun\SQL Version\obj\Debug\DEMO.exe
+C:\Users\wasd0\Desktop\Oyun\SQL Version\obj\Debug\DEMO.pdb

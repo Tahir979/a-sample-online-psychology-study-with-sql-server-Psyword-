@@ -1,0 +1,10 @@
+﻿[*.{cs,vb}]
+
+# IDE0044: Salt okunur değiştirici ekle
+dotnet_diagnostic.IDE0044.severity = none
+
+# IDE1006: Adlandırma Stilleri
+dotnet_diagnostic.IDE1006.severity = none
+
+# IDE0052: Okunmamış özel üyeleri kaldır
+dotnet_diagnostic.IDE0052.severity = none
