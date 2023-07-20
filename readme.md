@@ -30,4 +30,3 @@
 ![gameconditionscreencorrect](/Access%20Version/screenshot/gameconditionscreencorrect.png)
 ![gameconditionscreenfalse](/Access%20Version/screenshot/gameconditionscreenfalse.png)
 ![gameconditionend](/Access%20Version/screenshot/gameconditionend.png)
-gsdfgfd
