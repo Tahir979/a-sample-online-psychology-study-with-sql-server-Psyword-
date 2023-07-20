@@ -1,4 +1,4 @@
-# A sample Online Psychology Study with SQL Server (Psyword)
+# A Sample Online Psychology Study with SQL Server (Psyword)
 
 > This program is an example of how psychology studies that have the potential to be conducted online can be moved to the online platform. The data of the study was collected online (not face to face) using SQL Server Database, and prepared within the scope of Hacettepe University PSL415 course. Since the sample of the study consisted of only Turkish people, the language of the program was set as Turkish only.
 
@@ -17,4 +17,16 @@
 
 ## ScreenShot
 
-![Screenshot](the-last-remnant-remastered.png)
+![main](/Access%20Version/screenshot/main.png)
+![loginscreen](/Access%20Version/screenshot/loginscreen.png)
+![readcondition](/Access%20Version/screenshot/readcondition.png)
+![readconditionsample](/Access%20Version/screenshot/readconditionsample.png)
+![testingcondition](/Access%20Version/screenshot/testingcondition.png)
+![testingconditionsample](/Access%20Version/screenshot/testingconditionsample.png)
+![testingconditionsampleoutcome](/Access%20Version/screenshot/testingconditionsampleoutcome.png)
+![testingconditionsampleoutcomescreen](/Access%20Version/screenshot/testingconditionsampleoutcomescreen.png)
+![gamecondition](/Access%20Version/screenshot/gamecondition.png)
+![gameconditionscreen](/Access%20Version/screenshot/gameconditionscreen.png)
+![gameconditionscreencorrect](/Access%20Version/screenshot/gameconditionscreencorrect.png)
+![gameconditionscreenfalse](/Access%20Version/screenshot/gameconditionscreenfalse.png)
+![gameconditionend](/Access%20Version/screenshot/gameconditionend.png)
