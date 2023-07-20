@@ -4,7 +4,7 @@
 
 > - This study was a **six-person-group study**, designed by Ozan Bölükbaşı and programming by me.
 
-> For an ideal view, run at 1920 * 1080 resolution and 100% scale settings. The program works with [access database](https://www.microsoft.com/en-us/download/details.aspx?id=13255) and [.NET Framework 4.7.2+](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472), download these if it necessary.
+> For an ideal view, run at 1920 * 1080 resolution and 100% scale settings. The program works with [access database](https://www.microsoft.com/en-us/download/details.aspx?id=13255) and [.NET Framework 4.7.2+](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472), download these if necessary.
 
 > - [**Sample Usage Video**](https://drive.google.com/file/d/1qPsb9fWGPSHLlWnPPiC00syRfoyAWWZT/view?usp=sharing)
 
