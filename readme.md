@@ -1,6 +1,6 @@
 # A Sample Online Psychology Study with SQL Server (Psyword)
 
-> This program is an example of how psychology studies that have the potential to be conducted online can be moved to the online platform. The data of the study was collected online (not face to face) using SQL Server Database, and prepared within the scope of Hacettepe University PSL415 course. Since the sample of the study consisted of only Turkish people, the language of the program was set as Turkish only.
+> This program is an example of how psychology studies that have the potential to conduct online can be moved to the online platform. The data was collected online (not face to face) using SQL Server Database and prepared within the scope of the Hacettepe University PSL415 course. Since the sample of the study consist of only Turkish people, the language of the program was set as Turkish only.
 
 > - This study was a **six-person-group study**, designed by Ozan Bölükbaşı and programming by me.
 
