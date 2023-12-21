@@ -1,4 +1,4 @@
-# A Sample Online Psychology Study with SQL Server (Psyword)
+# A Sample Online Psychology Game Study
 
 > This program is an example of how psychology studies that have the potential to conduct online can be moved to the online platform. The data was collected online using SQL Server Database and prepared within the scope of the Hacettepe University PSL415 course. Since the sample of the study consist of only Turkish people, the language of the program was set as Turkish only.
 
